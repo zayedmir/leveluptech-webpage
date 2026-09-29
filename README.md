@@ -66,14 +66,6 @@ No install or build step is needed.
 - **Text content:** edit `index.html`.
 - **Colors and fonts:** change the variables at the top of `style.css`.
 
-## What I learned
-
-<!-- Write this part yourself. A few prompts to get you started:
-- How does a responsive layout differ from having separate desktop and mobile pages?
-- What did you learn about HTML, CSS, and JS working together?
-- What was the hardest bug or design problem, and how did you fix it?
-- What did you learn about Git and GitHub Pages? -->
-
 ## Credits
 
 Brand, design direction, content, and business policies by the Level Up Tech Team. The code was written collaboratively with [Claude](https://claude.ai) (Anthropic), an AI assistant, and was reviewed, tested, edited, and deployed by me.

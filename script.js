@@ -2,7 +2,7 @@
 const CONFIG = {
   whatsapp: "971541755209",              // country code + number, no + or spaces
   instagram: "leveluptech.ae",           // handle without the @
-  email: "leveluptechgaming@gmail.com"   // swap for your customer care email later
+  email: "customercare@leveluptech.ae"   // swap for your customer care email later
 };
 
 /* ===== 2. YOUR BUILDS: add, remove, or edit a build here and the page updates ===== */

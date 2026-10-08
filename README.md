@@ -66,9 +66,11 @@ No install or build step is needed.
 - **Text content:** edit `index.html`.
 - **Colors and fonts:** change the variables at the top of `style.css`.
 
-## Credits
+## Credits & AI Usage Statement
 
-Brand, design direction, content, and business policies by the Level Up Tech Team. The code was written collaboratively with [Claude](https://claude.ai) (Anthropic), an AI assistant, and was reviewed, tested, edited, and deployed by me.
+Designed and built by me. Gemini was used for grammar fixes on webpage text I wrote, and Claude assisted with migrating the site from Canva websites to HTML/CSS/JS and with domain setup guidance. I reviewed and edited all AI-assisted output with extensive QA Testing before final deployment.
+
+Full statement → 
 
 ## License
 

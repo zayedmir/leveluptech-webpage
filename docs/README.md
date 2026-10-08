@@ -70,7 +70,7 @@ No install or build step is needed.
 
 Designed and built by me. Gemini was used for grammar fixes on webpage text I wrote, and Claude assisted with migrating the site from Canva websites to HTML/CSS/JS and with domain setup guidance. I reviewed and edited all AI-assisted output with extensive QA Testing before final deployment.
 
-Full statement → 
+[Full AI Usage Statement](./AI_USAGE.md)
 
 ## License
 
